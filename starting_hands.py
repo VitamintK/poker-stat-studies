@@ -206,3 +206,4 @@ def get_range(VPIP):
     return hands[players][:num_of_hands]
 
 print('\n'.join(get_range(23)))
+print(hands)
